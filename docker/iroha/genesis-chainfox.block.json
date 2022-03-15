@@ -9,7 +9,7 @@
                 {
                   "addPeer": {
                     "peer": {
-                      "address": "34.101.153.149:10001",
+                      "address": "localhost:10001",
                       "peerKey": "e497577f391afb3ee3ad15c930c88920f04906f7978611bd2893e0047cc95cc2"
                     }
                   }
